@@ -40,7 +40,7 @@ console.log(isStrongPassword(safePassword))     // e.g. true
 
 ### Examples
 
-Generate strong passwords
+Generate strong passwords with `isStrongPassword()`
 
 ```js
 import { generateStrongPassword, isStrongPassword } from '@nick_muellner/password-utilities';
@@ -48,7 +48,7 @@ import { generateStrongPassword, isStrongPassword } from '@nick_muellner/passwor
 const length1 = 1;
 const length2 = 12;
 
-console.log(generateStrongPassword(length1)); // e.g. "p"
+console.log(generateStrongPassword(length1)); // e.g. "pC%mD8Tp"
 console.log(generateStrongPassword(length2)); // e.g. "pC%mD8TpCKn2"
 ```
 
