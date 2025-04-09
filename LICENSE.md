@@ -1,4 +1,4 @@
-Copyright (c) 2025-current <YOUR-NAME>
+Copyright (c) 2025-current NICK MÜLLNER
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
