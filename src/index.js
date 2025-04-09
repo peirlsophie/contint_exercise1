@@ -12,7 +12,10 @@ export function generateStrongPassword(length = 12) {
         .join('');
 
     while (!isStrongPassword(strongPassword)) {
-        strongPassword = generateStrongPassword(length + 1);
+        if(length < 8) {
+            length = 8
+        }
+        strongPassword = generateStrongPassword(length);
     }
 
     return strongPassword;
