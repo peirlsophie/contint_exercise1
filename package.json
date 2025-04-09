@@ -1,5 +1,5 @@
 {
-  "name": "@nick_muellner/password-utilities",
+  "name": "@nick_muellner/string-toolkit",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
