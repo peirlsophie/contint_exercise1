@@ -1,6 +1,6 @@
 {
   "name": "@nick_muellner/string-toolkit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
@@ -12,7 +12,7 @@
     "test": "npx jest --coverage"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0",
     "microbundle": "^0.15.1"
