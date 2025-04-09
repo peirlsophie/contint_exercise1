@@ -1,5 +1,5 @@
 
-# Contributing to @yourusername/shuffle-array
+# Contributing to @nick_muellner/password-utilities
 
 > Thank you for your interest in contributing! Your help is greatly appreciated.
 
@@ -26,7 +26,7 @@
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/shuffle-array.git
+   git clone https://github.com/peirlsophie/contint_exercise1.git
    cd shuffle-array
    ```
 2. **Install dependencies**:
@@ -45,5 +45,5 @@
 ## Committing Changes
 
 Please follow these guidelines for commit messages and pull requests:
-- **Commit Message Format**: Commit messages should be descriptive, e.g., `feat: add new shuffle algorithm` following the [Conventional Commits Specification](https://www.conventionalcommits.org/en). It is easy to follow if you are using the [semantic-git-commit-cli](https://www.npmjs.com/package/semantic-git-commit-cli)
+- **Commit Message Format**: Commit messages should be descriptive, e.g., `feat: add new password generating algorithm` following the [Conventional Commits Specification](https://www.conventionalcommits.org/en). It is easy to follow if you are using the [semantic-git-commit-cli](https://www.npmjs.com/package/semantic-git-commit-cli)
 - **Pull Request**: If you open a Pull Request please follow the [PULL_REQUEST_TEMPLATE.md](./.github/PULL_REQUEST_TEMPLATE.md).
