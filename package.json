@@ -16,5 +16,13 @@
   "devDependencies": {
     "jest": "^29.7.0",
     "microbundle": "^0.15.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peirlsophie/contint_exercise1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/peirlsophie/contint_exercise1/issues"
+  },
+  "homepage": "https://github.com/peirlsophie/contint_exercise1#readme"
 }
