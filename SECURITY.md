@@ -28,7 +28,7 @@ We take security issues seriously and appreciate your efforts to responsibly dis
 ## Scope
 
 - Our project does not handle sensitive data like passwords or personal user information beyond normal usage.
-- Please note that this library uses non-cryptographic randomness (e.g., `Math.random()`) and therefore is **not** intended for security-critical tasks.
+- Please note that this library uses non-cryptographic randomness (e.g., `Math.random()`) and therefore is **not** intended for security-critical tasks. However, the generated password is checked with the integrated function `isStrongPassword()`.
 
 ## Resources
 
