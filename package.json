@@ -1,6 +1,6 @@
 {
   "name": "@nick_muellner/string-toolkit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
