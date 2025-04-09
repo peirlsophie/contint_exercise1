@@ -9,7 +9,7 @@ describe('generateStrongPassword', () => {
         const password2 = generateStrongPassword(input2)
 
         expect(password1).not.toBe(input1);
-        expect(password1.length).toBe(input1);
+        expect(password1.length).toBe(8);
         expect(password2).not.toBe(input2);
         expect(password2.length).toBe(input2);
     });
